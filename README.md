@@ -21,7 +21,7 @@ In order to start this project you need:
   - urk (ukrainian phrase)
   - level (level grammar)
 
-# Fles to test
+# Files to test
 
 7. Source files with different delimiters
  - english_ukrainian_texts-comma.csv
