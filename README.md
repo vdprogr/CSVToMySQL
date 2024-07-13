@@ -3,13 +3,12 @@
 ## How to start project
 
 In order to start this project you need:
-1. In the local MySQL database create database dbcsv
 
-2. Parameters to connect database
-   username=root
-   password=root
+1. mvn package -DskipTests
 
-3.  you can use file to test
+2. docker-compose up
+
+3. you can use file to test
  - english_ukrainian_texts.csv - fields separated by comma
  - english_ukrainian_texts-2 - fields separated by semicolon
 
